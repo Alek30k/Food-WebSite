@@ -12,5 +12,3 @@
 - Aprender mejores prácticas.
 - Aprender y practicar el workflow de GIT.
 - Utilizar Metodologías Ágiles.
-
-### Requerimientos
